@@ -99,12 +99,32 @@ Set up your `.env` files as needed for MongoDB
 
 ## Screenshots
 
-_You can add screenshots here using markdown:_
 
-```md
 ![Student Table](frontend/src/assets/1a.png)
+
+
+![Student Profile](frontend/src/assets/2a.png)
+
+
+![Student Profile](frontend/src/assets/3a.png)
+
+
+![Student Profile](frontend/src/assets/4a.png)
+
+
 ![Student Profile](frontend/src/assets/1b.png)
-```
+
+
+![Student Profile](frontend/src/assets/2b.png)
+
+
+![Student Profile](frontend/src/assets/3b.png)
+
+
+![Student Profile](frontend/src/assets/4b.png)
+
+
+
 
 ---
 
